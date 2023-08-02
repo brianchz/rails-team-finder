@@ -42,5 +42,5 @@ User.create!([{
         roles: ['Top'],
         rank: 'Bronze',
         seriousness_level: 'Casual'
-    },
+    }
 ])
